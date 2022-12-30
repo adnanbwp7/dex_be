@@ -1,0 +1,9 @@
+TODO: 
+
+
+
+IPADRESS = 202.163.123.142/32
+
+mongodb+srv://TahaSiddiqui:<password>@cluster0.fdeclj5.mongodb.net/test
+
+connecting application: mongodb+srv://TahaSiddiqui:<password>@cluster0.fdeclj5.mongodb.net/?retryWrites=true&w=majority
